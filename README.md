@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ########################################
 # Thiago R. C. de Lima
 # 2014
@@ -18,3 +19,9 @@ FILES:
 	
 	
 			
+=======
+DominatingSet
+=============
+
+A C++ implementation of a costly backtracking algorithm to solve the Dominating Set problem.
+>>>>>>> 10cd02ee66175dceddc76a65467f7fb92fffb212
