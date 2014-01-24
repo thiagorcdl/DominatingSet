@@ -72,8 +72,8 @@ void check(int level, int size){
 	int can=1;
 	/* Assumes vertex is not in Dominating Set */
 	adj[level].nChoice--;
-	if(!adj[level].nChoice) return;
-	for(n = adj[level].n.begin(); n != adj[level].n.end(); n++){
+	if(!adj[level].nChoice) can=0;
+	if(can) for(n = adj[level].n.begin(); n != adj[level].n.end(); n++){
 		adj[*n].nChoice--;
 		if(!adj[*n].nChoice) 
 			can=0;
