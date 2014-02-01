@@ -1,0 +1,307 @@
+########################################################################
+# Hardware information:
+#	CPU:
+#	    2x	  Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+#		  width: 64 bits
+#
+#	Memory:
+#	    2x    SODIMM DDR3 Synchronous 1600 MHz (0.6 ns)
+#		  size: 4GiB
+#		  width: 64 bits
+#		  clock: 1600MHz (0.6ns)
+########################################################################
+
+
+Checking c020 on 1 (Global vars):
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+
+
+Checking c020 on 2 (params):
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+
+
+Checking c024 on 1 (Global vars):
+
+real	0m0.006s
+user	0m0.004s
+sys	0m0.000s
+
+
+Checking c024 on 2 (params):
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.008s
+
+
+Checking c024~ on 1 (Global vars):
+
+real	0m0.006s
+user	0m0.004s
+sys	0m0.000s
+
+
+Checking c024~ on 2 (params):
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.004s
+
+
+Checking c026 on 1 (Global vars):
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.004s
+
+
+Checking c026 on 2 (params):
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+
+
+Checking c028 on 1 (Global vars):
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+
+
+Checking c028 on 2 (params):
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+
+
+Checking c030 on 1 (Global vars):
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
+
+
+Checking c030 on 2 (params):
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.004s
+
+
+Checking c032 on 1 (Global vars):
+
+real	0m0.024s
+user	0m0.016s
+sys	0m0.004s
+
+
+Checking c032 on 2 (params):
+
+real	0m0.015s
+user	0m0.012s
+sys	0m0.000s
+
+
+Checking c034 on 1 (Global vars):
+
+real	0m0.016s
+user	0m0.012s
+sys	0m0.004s
+
+
+Checking c034 on 2 (params):
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.004s
+
+
+Checking c036 on 1 (Global vars):
+
+real	0m0.044s
+user	0m0.040s
+sys	0m0.000s
+
+
+Checking c036 on 2 (params):
+
+real	0m0.046s
+user	0m0.044s
+sys	0m0.000s
+
+
+Checking c038 on 1 (Global vars):
+
+real	0m0.030s
+user	0m0.024s
+sys	0m0.004s
+
+
+Checking c038 on 2 (params):
+
+real	0m0.045s
+user	0m0.044s
+sys	0m0.000s
+
+
+Checking c040 on 1 (Global vars):
+
+real	0m0.236s
+user	0m0.232s
+sys	0m0.000s
+
+
+Checking c040 on 2 (params):
+
+real	0m0.252s
+user	0m0.248s
+sys	0m0.000s
+
+
+Checking c042 on 1 (Global vars):
+
+real	0m0.111s
+user	0m0.108s
+sys	0m0.000s
+
+
+Checking c042 on 2 (params):
+
+real	0m0.119s
+user	0m0.116s
+sys	0m0.000s
+
+
+Checking c044 on 1 (Global vars):
+
+real	0m0.625s
+user	0m0.620s
+sys	0m0.000s
+
+
+Checking c044 on 2 (params):
+
+real	0m0.682s
+user	0m0.672s
+sys	0m0.008s
+
+
+Checking c046 on 1 (Global vars):
+
+real	0m0.397s
+user	0m0.396s
+sys	0m0.000s
+
+
+Checking c046 on 2 (params):
+
+real	0m0.420s
+user	0m0.412s
+sys	0m0.004s
+
+
+Checking c048 on 1 (Global vars):
+
+real	0m2.306s
+user	0m2.296s
+sys	0m0.004s
+
+
+Checking c048 on 2 (params):
+
+real	0m2.478s
+user	0m2.472s
+sys	0m0.000s
+
+
+Checking c050 on 1 (Global vars):
+
+real	0m1.304s
+user	0m1.300s
+sys	0m0.000s
+
+
+Checking c050 on 2 (params):
+
+real	0m1.389s
+user	0m1.384s
+sys	0m0.000s
+
+
+Checking c052 on 1 (Global vars):
+
+real	0m6.748s
+user	0m6.732s
+sys	0m0.000s
+
+
+Checking c052 on 2 (params):
+
+real	0m7.330s
+user	0m7.292s
+sys	0m0.000s
+
+
+Checking c054 on 1 (Global vars):
+
+real	0m3.689s
+user	0m3.676s
+sys	0m0.004s
+
+
+Checking c054 on 2 (params):
+
+real	0m4.029s
+user	0m4.016s
+sys	0m0.000s
+
+
+Checking c056 on 1 (Global vars):
+
+real	0m23.915s
+user	0m23.840s
+sys	0m0.020s
+
+
+Checking c056 on 2 (params):
+
+real	0m25.733s
+user	0m25.668s
+sys	0m0.008s
+
+
+Checking c058 on 1 (Global vars):
+
+real	0m10.393s
+user	0m10.368s
+sys	0m0.000s
+
+
+Checking c058 on 2 (params):
+
+real	0m11.267s
+user	0m11.228s
+sys	0m0.012s
+
+
+Checking c060 on 1 (Global vars):
+
+real	0m57.872s
+user	0m57.740s
+sys	0m0.008s
+
+
+Checking c060 on 2 (params):
+
+real	1m2.724s
+user	1m2.568s
+sys	0m0.024s
+
